@@ -1,3 +1,17 @@
+# MDR Hub
+## Submit Ideas, Vote on Pitches and Get Noticed in Virtual Competitions
+
+https://mdr-hub.vercel.app/
+
+Login with Github
+
+## Preview
+![Screenshot 2025-01-15 163710](https://github.com/user-attachments/assets/1a77c528-7be6-4ba1-8f70-1b34206e6775)
+![screencapture-mdr-hub-vercel-app-startup-LQ6Znjfxc20LzbBCFxi133-2025-01-15-16_41_53](https://github.com/user-attachments/assets/7dba5b40-d7ff-49d5-b70e-63c18e864156)
+![screencapture-mdr-hub-vercel-app-startup-create-2025-01-15-16_42_14](https://github.com/user-attachments/assets/6eb99f3e-6925-4f27-b087-90217b20c0bb)
+![screencapture-mdr-hub-vercel-app-user-ZudB2GVFiv1KzcgdQvqiCU-2025-01-15-16_42_28](https://github.com/user-attachments/assets/9a3940ca-b79d-418b-9641-d400d077e297)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
